@@ -66,8 +66,13 @@ La altura de un árbol con raíces es el número de aristas en el camino descend
 Para los siguientes ejercicios, la información se encuentra con mas detalle en las diapositivas que estan en el documento de powerpoint subido al repositorio.
 
 Ejercicio 5: (https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
+
 Ejercicio 6: (https://leetcode.com/problems/find-if-path-exists-in-graph/)
+
 Ejercicio 7: (https://leetcode.com/problems/relative-ranks/)
+
 Ejercicio 8: (https://codeforces.com/problemset/problem/681/C)
+
 Ejercicio 9: (https://atcoder.jp/contests/abc240/tasks/abc240_b?lang=en)
+
 Ejercicio 10: (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1998)

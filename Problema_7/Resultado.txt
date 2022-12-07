@@ -1,0 +1,5 @@
+[Silver Medal, Bronze Medal, 4, Gold Medal, 5]
+[Gold Medal, 5, Silver Medal, 4, Bronze Medal]
+[Gold Medal, 4, Bronze Medal, Silver Medal, 5]
+[Bronze Medal, Silver Medal, 5, Gold Medal, 4]
+[4, Bronze Medal, Gold Medal, 5, Silver Medal]
